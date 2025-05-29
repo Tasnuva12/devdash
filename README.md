@@ -1,6 +1,3 @@
-Sure! Here’s your complete README in plain text, ready to use:
-
----
 
 # 🛠️ DevDash
 
@@ -30,7 +27,7 @@ Built to keep you in the zone with minimal distractions.
 Follow these steps to install DevDash on your machine:
 
 1. Clone the repository
-   `git clone https://github.com/your-username/devdash.git`
+   `git clone https://github.com/Tasnuva12/devdash.git`
    `cd devdash`
 
 2. Install dependencies
